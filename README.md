@@ -1,12 +1,12 @@
-Agricultural Profitability & Market Intelligence System 🌾📊
+## Agricultural Profitability & Market Intelligence System 🌾📊
 
 This project analyzes agricultural production, logistics, and sales data to uncover insights on crop profitability, transport efficiency, and cost management across regions and farmer groups. The analysis supports data-driven decision-making to help a startup maximize revenue, reduce losses, and improve operational efficiency.
 
-Project Overview
+## Project Overview
 
 The startup faced challenges identifying profitable crops, efficient regions, and high-performing farmer groups due to the absence of structured data analysis. This project leverages data analytics to evaluate profitability, logistics costs, and transport losses, enabling better planning and long-term strategic growth.
 
-Project Objectives
+## Project Objectives
 Primary Objective
 
 Identify the most profitable crops and regions to maximize agricultural revenue.
@@ -21,7 +21,7 @@ Estimate revenue lost due to spoilage or inefficient transport.
 
 Identify the most efficient farmer groups or markets.
 
-Project Structure
+## Project Structure
 
 data/ – Raw and cleaned agricultural datasets (Excel/CSV files).
 
@@ -33,7 +33,7 @@ images/ – Dashboard screenshots and visual outputs.
 
 README.md – Project documentation.
 
-Methodology & Analysis
+## Methodology & Analysis
 1. Data Cleaning & Preparation (Excel)
 
 Tool: Microsoft Excel
@@ -74,7 +74,7 @@ Farmer group performance
 
 Enabled filtering by crop, region, and farmer group for deeper insights
 
-Key Insights
+## Key Insights
 
 High-profit crops: Cassava and Yam
 
@@ -86,7 +86,7 @@ Farmer_23 consistently outperformed others and can serve as a benchmark for best
 
 Inefficient transport and spoilage are major contributors to revenue loss.
 
-Recommendations
+## Recommendations
 Short-Term Recommendations
 
 Focus planting on high-profit crops such as Cassava and Yam in top-performing regions.
@@ -103,11 +103,11 @@ Train farmer groups on efficiency, cost control, and profitability best practice
 
 Continuously use data-driven tools to optimize crop selection, regional focus, and operational costs.
 
-Conclusion
+## Conclusion
 
 This project demonstrates how data analytics can transform agricultural decision-making. By identifying profitable crops, efficient regions, and high-performing farmer groups, the startup can reduce losses, improve logistics, and maximize revenue. Data-driven insights provide both immediate operational improvements and a foundation for long-term strategic growth.
 
-Technologies Used
+## Technologies Used
 
 Microsoft Excel 📝
 
@@ -115,7 +115,7 @@ SQL 🗄️
 
 Microsoft Power BI 📊
 
-Contact
+## Contact
 
 For questions or collaborations, feel free to connect:
 LinkedIn: [](https://www.linkedin.com/in/modupeaderibigbe/) 
