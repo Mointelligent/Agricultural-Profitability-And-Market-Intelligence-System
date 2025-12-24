@@ -118,4 +118,4 @@ Microsoft Power BI 📊
 ## Contact
 
 For questions or collaborations, feel free to connect:
-LinkedIn: [](https://www.linkedin.com/in/modupeaderibigbe/) 
+LinkedIn: (https://www.linkedin.com/in/modupeaderibigbe/) 
